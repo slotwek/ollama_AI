@@ -30,7 +30,7 @@ ollama pull gemma4:e4b
 ollama  run  llama2
 ```
 - it will start a prompt. To exit it, just type **/bye**
-![ollama - how to quit the model.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/ollama%20-%20how%20to%20quit%20the%20model.png)
+> ![ollama - how to quit the model.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/ollama%20-%20how%20to%20quit%20the%20model.png)
 
 ## More specific modells:
 ```bash
@@ -42,7 +42,7 @@ ollama  run  qwen3.8:27b
 ```bash
 ollama  list
 ```
-> the result is:
+the result is:
 > ![ollama - list of models.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/ollama%20-%20list%20of%20models.png)
 - example list of models as of 2025-01-13
 > ![ollama - List of available models with sizes.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/ollama%20-%20List%20of%20available%20models%20with%20sizes.png)

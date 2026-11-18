@@ -35,7 +35,7 @@ Gemma model is "multi-model", which can also understand images!
 
 ## 2. How to use it:
 - Start new conversation and pick the model we just created **Email Writer** - it is the same thing what we have done as **Mario** model [ollama - Modelfile](https://github.com/slotwek/ollama_AI/blob/main/ollama/ollama%20-%20Modelfile.md)
-![ollama - how to use personas.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/ollama%20-%20how%20to%20use%20personas.png)
+> ![ollama - how to use personas.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/ollama%20-%20how%20to%20use%20personas.png)
 
 ## Results:
 > ![ollama - results of personas.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/ollama%20-%20results%20of%20personas.png)
