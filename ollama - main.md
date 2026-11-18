@@ -32,7 +32,7 @@ Introductory video: [Tech with Tim](https://www.youtube.com/watch?v=UtSSMs6ObqY)
 
 
 # Before choosing model:
-![[Pasted image 20260912200520.png]]
+![qwen model description.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/qwen%20model%20description.png)
 - tools - means that the model can take actions: searching web, running code. You want this for agents feature
 - vision - it can look at images
 - thinking - it reasons through a problem step by step before answering. Slower but noticeably better on math and logic

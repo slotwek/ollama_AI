@@ -20,7 +20,7 @@ ollama create mario  -f  Modelfile
 ```bash
 ollama  list
 ```
-> ![[Pasted image 20260912194527.png]]
+> ![cmd ollama list.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/cmd%20ollama%20list.png)
 
 # To run model with defined model:
 ```bash

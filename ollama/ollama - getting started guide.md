@@ -45,7 +45,7 @@ ollama  list
 > the result is:
 > ![ollama - list of models.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/ollama%20-%20list%20of%20models.png)
 - example list of models as of 2025-01-13
-> ![[Pasted image 20260912181941.png]]
+> ![ollama - List of available models with sizes.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/ollama%20-%20List%20of%20available%20models%20with%20sizes.png)
 
 
 

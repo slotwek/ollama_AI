@@ -7,13 +7,13 @@ relates_to:
 Accessing the model via HTTP API, e.g. using [[Bash commands#curl]], [[postman]], [[Python]]. Any type of code which can send HTTP request. 
 
 # Check if ollama is already loaded (Windows)
-> ![[Pasted image 20260912182447.png]]
+> ![ollama in task manager.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/ollama%20in%20task%20manager.png)
 
 ## If it is not there - start by:
 ```cmd
 ollama serve
 ```
-> ![[Pasted image 20260912182837.png]]
+> ![cmd ollama server.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/cmd%20ollama%20server.png)
 
 - standard port is: localhost:11434
 

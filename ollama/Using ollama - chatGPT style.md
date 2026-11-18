@@ -24,7 +24,7 @@ Source: [YT Teacher's Tech with Gemma4](https://www.youtube.com/watch?v=aQ1rblXB
 > ![ollama with WebUI using Knowledge Set.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/ollama%20with%20WebUI%20using%20Knowledge%20Set.png)
 
 Gemma model is "multi-model", which can also understand images!
-> ![[Pasted image 20260912225401.png]]
+> ![gemma4 capabilities.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/gemma4%20capabilities.png)
 
 # Working with personas:
 *Can be used for coding assistant, flashcards, emails, quiz generator, meeting notes summarizers, etc. Whatever, you do regularly. *

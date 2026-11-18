@@ -15,4 +15,4 @@ relates_to:
 
 # Let's check if the server is running
 - If Ollama is running, you should get JSON containing your installed models.
-> ![[Pasted image 20260912190313.png]]
+> ![cmd curl localhost api tags.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/cmd%20curl%20localhost%20api%20tags.png)
