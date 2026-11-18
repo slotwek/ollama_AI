@@ -1123,4 +1123,4 @@ PS C:\Users\slotw>
 
 
 ---
-[[ollama - main]]
+[ollama - main](https://github.com/slotwek/ollama_AI/blob/main/ollama%20-%20main.md)

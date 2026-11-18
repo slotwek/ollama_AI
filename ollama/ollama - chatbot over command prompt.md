@@ -66,9 +66,9 @@ pip3  install  json
 
 # What if something goes wrong?
 My example:
-> ![[ollama - serve - bind error.png]]
+> ![ollama - serve - bind error.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/ollama%20-%20serve%20-%20bind%20error.png)
 
-But, help to track some stuff: [[ollama - probably this is not necessary]]
+But, help to track some stuff: [ollama - probably this is not necessary](https://github.com/slotwek/ollama_AI/blob/main/ollama/ollama%20-%20probably%20this%20is%20not%20necessary.md)
 
 # To start the chat from Python code:
 - my script is in `chat.txt` - it same as above (only, it uses llama2)
@@ -77,10 +77,10 @@ But, help to track some stuff: [[ollama - probably this is not necessary]]
 cd C:\temp\001_coding_here\ollama\
 python.exe chat.txt
 ```
-> ![[ollama - chat in batch mode.png]]
+> ![ollama - chat in batch mode.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/ollama%20-%20chat%20in%20batch%20mode.png)
 
 # Other method!
-*You can simplify the script by using Python ollama library. More here:* [[ollama - chatbot via ollama library for Python]]
+*You can simplify the script by using Python ollama library. More here:* [ollama - chatbot via ollama library for Python](https://github.com/slotwek/ollama_AI/blob/main/ollama/ollama%20-%20chatbot%20via%20ollama%20library%20for%20Python.md)
 
 ---
-[[ollama - main]]
+[ollama - main](https://github.com/slotwek/ollama_AI/blob/main/ollama%20-%20main.md)

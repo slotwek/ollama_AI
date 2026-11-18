@@ -5,7 +5,7 @@ relates_to:
 ---
 Source: [Teacher's Tech](https://www.youtube.com/watch?v=aQ1rblXB91U)
 # Pre-requests:
-- ollama - [[ollama - how to install]]
+- ollama - [ollama - how to install](https://github.com/slotwek/ollama_AI/blob/main/ollama/ollama%20-%20how%20to%20install.md)
 - gemma4 model
 
 # Requirements:
@@ -41,15 +41,15 @@ In web browser type:
 ```text
 localhost:3000
 ```
-> ![[Open WebUI over ollama.png]]
+> ![Open WebUI over ollama.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/Open%20WebUI%20over%20ollama.png)
 
 Because the command uses port **:3000**, it has a clash with Obsidian presentations! For now, I have closed the Obsidian and then it started working.
 
 It will ask you for user name, e-mail address and password. But *is locally*. It is not send anywhere. 
-![[Pasted image 20260912221001.png]]
+![Docker - Open WebUI.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/Docker%20-%20Open%20WebUI.png)
 
 
-> ![[Pasted image 20260912221847.png]]
+> ![ollama with OpenWeb UI.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/ollama%20with%20OpenWeb%20UI.png)
 
 # What if you need to delete and recreate stuff:
 - Stop WebUI
@@ -64,13 +64,13 @@ docker rm open-webui
 ```bash
 docker run -d -p 3001:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
 ```
-> ![[cmd docker run on port 3001.png]]
+> ![cmd docker run on port 3001.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/cmd%20docker%20run%20on%20port%203001.png)
 
 ## This is what Docker Desktop shows:
-> ![[Docker Desktop with 1 container.png]]
+> ![Docker Desktop with 1 container.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/Docker%20Desktop%20with%201%20container.png)
 
 # Checking if it works:
-> ![[WebUI ollama test.png]]
+> ![WebUI ollama test.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/WebUI%20ollama%20test.png)
 
 ---
-[[ollama - main]]
+[ollama - main](https://github.com/slotwek/ollama_AI/blob/main/ollama%20-%20main.md)

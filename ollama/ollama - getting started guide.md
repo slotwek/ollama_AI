@@ -4,14 +4,14 @@ aliases:
 relates_to:
 ---
 Assumptions - you have installed ollama already!
-- Installation notes: [[ollama - how to install]]
+- Installation notes: [ollama - how to install](https://github.com/slotwek/ollama_AI/blob/main/ollama/ollama%20-%20how%20to%20install.md)
 
 # Getting help (manual):
 ```bash
 ollama
 ```
 - this will print out how to use ollama
-> ![[Pasted image 20260912182133.png]]
+> ![cmd ollama.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/cmd%20ollama.png)
 ```bash
 ollama  [command]  --help
 ```
@@ -30,7 +30,7 @@ ollama pull gemma4:e4b
 ollama  run  llama2
 ```
 - it will start a prompt. To exit it, just type **/bye**
-![[ollama - how to quit the model.png]]
+![ollama - how to quit the model.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/ollama%20-%20how%20to%20quit%20the%20model.png)
 
 ## More specific modells:
 ```bash
@@ -43,11 +43,11 @@ ollama  run  qwen3.8:27b
 ollama  list
 ```
 > the result is:
-> ![[ollama - list of models.png]]
+> ![ollama - list of models.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/ollama%20-%20list%20of%20models.png)
 - example list of models as of 2025-01-13
 > ![[Pasted image 20260912181941.png]]
 
 
 
 ---
-[[ollama - main]]
+[ollama - main](https://github.com/slotwek/ollama_AI/blob/main/ollama%20-%20main.md)

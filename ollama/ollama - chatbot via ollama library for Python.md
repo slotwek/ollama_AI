@@ -10,13 +10,13 @@ pip  install  ollama
 # or:
 pip3  install  ollama
 ```
-> ![[cmd pip install ollama.png]]
+> ![cmd pip install ollama.png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/cmd%20pip%20install%20ollama.png)
 
 # You can run ollama with command:
 ```shel
 python package.py
 ```
-> ![[python running ollama as script (chat).png]]
+> ![python running ollama as script (chat).png](https://raw.githubusercontent.com/slotwek/ollama_AI/main/ollama/attachments/python%20running%20ollama%20as%20script%20%28chat%29.png)
 
 ## package.py
 *Content of the file:*
@@ -39,4 +39,4 @@ print(response.response)
 ```
 
 ---
-[[ollama - main]], [[ollama - chatbot over command prompt]]
+[ollama - main](https://github.com/slotwek/ollama_AI/blob/main/ollama%20-%20main.md), [ollama - chatbot over command prompt](https://github.com/slotwek/ollama_AI/blob/main/ollama/ollama%20-%20chatbot%20over%20command%20prompt.md)
